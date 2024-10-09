@@ -1,0 +1,9 @@
+afi:1234
+ani:4321
+maria:5678
+admin:1111mata:hari
+kirby:5555
+dono:doni
+raf:di
+rafdi:eek
+restu:5656

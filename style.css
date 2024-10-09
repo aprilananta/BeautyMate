@@ -1,0 +1,51 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.login-container {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+.input-group input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid #FBEEF1;
+}
+
+
+button {
+    background-color: #C38E9C;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: #EEB8C6;
+}
